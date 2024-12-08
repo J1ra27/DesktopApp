@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLCUAHANGNOITHATDataSet5" targetNamespace="http://tempuri.org/QLCUAHANGNOITHATDataSet5.xsd" xmlns:mstns="http://tempuri.org/QLCUAHANGNOITHATDataSet5.xsd" xmlns="http://tempuri.org/QLCUAHANGNOITHATDataSet5.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLCUAHANGNOITHATConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLCUAHANGNOITHATConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QuanLyCuaHangNoiThat.Properties.Settings.GlobalReference.Default.QLCUAHANGNOITHATConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="aTableAdapter" GeneratorDataComponentClassName="aTableAdapter" Name="a" UserDataComponentName="aTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLCUAHANGNOITHATConnectionString (Settings)" DbObjectName="QLCUAHANGNOITHAT.dbo.a" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT tennoiThat FROM dbo.a</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="tennoiThat" DataSetColumn="tennoiThat" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QLCUAHANGNOITHATDataSet5" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="QLCUAHANGNOITHATDataSet5" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QLCUAHANGNOITHATDataSet5">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="a" msprop:Generator_RowEvHandlerName="aRowChangeEventHandler" msprop:Generator_RowDeletedName="aRowDeleted" msprop:Generator_RowDeletingName="aRowDeleting" msprop:Generator_RowEvArgName="aRowChangeEvent" msprop:Generator_TablePropName="a" msprop:Generator_RowChangedName="aRowChanged" msprop:Generator_UserTableName="a" msprop:Generator_RowChangingName="aRowChanging" msprop:Generator_RowClassName="aRow" msprop:Generator_TableClassName="aDataTable" msprop:Generator_TableVarName="tablea">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tennoiThat" msprop:Generator_ColumnPropNameInTable="tennoiThatColumn" msprop:Generator_ColumnPropNameInRow="tennoiThat" msprop:Generator_UserColumnName="tennoiThat" msprop:Generator_ColumnVarNameInTable="columntennoiThat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

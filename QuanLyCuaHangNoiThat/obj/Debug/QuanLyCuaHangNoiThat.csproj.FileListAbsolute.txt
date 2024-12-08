@@ -1,0 +1,1285 @@
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frm_Login.resources
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frm_Home.resources
+C:\Users\thien\source\repos\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frm_DonDatHang.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoBanHang.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoBanHang.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat (1) (1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+E:\Admin\QuanLyCuaHangNoiThat (1.1)\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\phamt\OneDrive\Desktop\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat (2) (1)\QuanLyCuaHangNoiThat (2)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThatNew\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\QuanLyCuaHangNoiThat1\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\thien\Downloads\nhom6btl\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\SqlServerTypes\x64\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\SqlServerTypes\x86\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\QuanLyCuaHangNoiThat.exe.config
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Microsoft.ReportViewer.Common.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Microsoft.ReportViewer.DataVisualization.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Microsoft.ReportViewer.Design.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Microsoft.ReportViewer.WinForms.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Microsoft.SqlServer.Types.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\EnvDTE.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\stdole.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+E:\Admin\QuanLyCuaHangNoiThat (1)\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+C:\Users\maico\Downloads\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+D:\Study\New folder\Old\Code .NET\BTL_Nhom6_QuanLyNoiThat\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe.config
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.exe
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\QuanLyCuaHangNoiThat.pdb
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\EnvDTE.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\stdole.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.AssemblyReference.cache
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.ResolveComReference.cache
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoHDNcuaNV.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCao1.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoNCC.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmBaoCaoSanPham.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmBaoCao.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.FormBaoCao.frmChiTietDDH.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmChiTietHDN.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmHoaDonNhap.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNhanVien.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmDonDatHang.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Forms.frmNoiThat.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmLogin.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.frmHome.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.Properties.Resources.resources
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.GenerateResource.cache
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CoreCompileInputs.cache
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.csproj.CopyComplete
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.exe
+D:\Đồ án\BTL_DACN\QuanLyCuaHangNoiThat\QuanLyCuaHangNoiThat\obj\Debug\QuanLyCuaHangNoiThat.pdb
